@@ -1,6 +1,6 @@
 from pathlib import Path
 
-"""Write a single playful forecast for an imaginary city to /output/entry.txt."""
+"""Write one playful forecast line for a city that isn't to /output/entry.txt."""
 
 JOKE = "Rain in Nimmerport, with a chance of lowercase seagulls. Commute accordingly."
 
